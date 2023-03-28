@@ -1,0 +1,10 @@
+create-concessionaria IMD IMD2022001 0
+add-car IMD TOYOTA 52000 RNBR2022001 2022 ELETRICO
+add-bike IMD YAMAHA 35000 RNBR2022002 2023 CLASSICO
+add-truck IMD VOLVO 250000 RNBR2022003 2023 NORMAL
+list-concessionaria IMD
+raise-price IMD 10
+list-concessionaria IMD
+remove-vehicle RNBR2022002
+list-concessionaria IMD
+quit
