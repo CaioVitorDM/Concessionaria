@@ -11,14 +11,14 @@ eles são:
 
 # Caso não queira testar comando por comando, deixei uma pasta chamada Inputs, com arquivos de texto com entradas.
 * Para compilar com o arquivo .txt dos inputs basta dar o comando
-   ./programa <../inputs/nome_do_arquivo.txt
+  ```./programa <../inputs/nome_do_arquivo.txt```
   - Exemplo:
-    ./programa <../inputs/teste-1.txt
+    ```./programa <../inputs/teste-1.txt```
 
 
 # Lista de Comandos para o programa
-create-concessionaria / add-car / add-bike / add-truck / search-vehicle / remove-vehicle
-/ list-concessionaria / raise-price / quit
+```create-concessionaria / add-car / add-bike / add-truck / search-vehicle / remove-vehicle
+/ list-concessionaria / raise-price / quit```
 
 
 # INSTRUÇÕES PARA O PROGRAMA
