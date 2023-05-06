@@ -17,9 +17,9 @@ eles são:
 
 
 # Lista de Comandos para o programa
-```create-concessionaria / add-car / add-bike / add-truck / search-vehicle / remove-vehicle
-/ list-concessionaria / raise-price / quit```
 
+create-concessionaria / add-car / add-bike / add-truck / search-vehicle / remove-vehicle
+/ list-concessionaria / raise-price / quit
 
 # INSTRUÇÕES PARA O PROGRAMA
 
